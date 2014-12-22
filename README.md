@@ -35,27 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES TO BE INQVIRED OF IN THE METROPOLITICALL VISITATION OF THE MOST REVEREND FATHER, VVILLIAM, 
-1. The Tenour of the Oath, to be Ministred to the Church-wardens and Side-men.
-
+Articles to be inquired of in the metropoliticall visitation of  the most reverend father, VVilliam,
 #####Body#####
-
-1. Concerning the Church, the Ornaments thereof and the Churches possessions.
-
-1. Concerning the Clergy.
-
-1. Schoole-Masters.
-
-1. Parish Clarke and Sextons.
-
-1. Concerning the Parishioners.
-
-1. Physitions, Chir•rgions, and Mid-wives.
-
-1. Touching the Church-wardens and Side-men.
-
-1. Concerning Ecclesiasticall Magistrates and Officers.
-
+Articles to be inquired of in the metropoliticall visitation of  the most reverend father, VVilliam,
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
@@ -88,48 +70,42 @@ There are 228 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), OCLC (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|6||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), OCLC (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__desc__|228||
-|3.|__div__|10| @__type__ (10) : title_page (1), oath (1), part (8)|
-|4.|__figure__|1||
-|5.|__front__|1||
-|6.|__g__|95| @__ref__ (95) : char:EOLhyphen (94), char:EOLunhyphen (1)|
-|7.|__gap__|228| @__reason__ (228) : illegible: left blank (2), illegible (226)  •  @__extent__ (228) : 1 letter (200), 1 word (9), 2 letters (17), 3 letters (2)  •  @__resp__ (225) : #PDCC (225)|
-|8.|__head__|10||
-|9.|__hi__|8||
-|10.|__p__|88| @__n__ (80) : 2 (7), 3 (7), 4 (7), 5 (6), 6 (5), 7 (5), 1 (7), 8 (3), 9 (2), 10 (2), 11 (2), 12 (2), 13 (2), 14 (2), 15 (2), 16 (2), 17 (2), 18 (2), 19 (2), 20 (2), 21 (2), 22 (2), 23 (2), 24 (2), 25 (1)|
-|11.|__pb__|13| @__facs__ (13) : tcp:27666:1 (2), tcp:27666:2 (2), tcp:27666:3 (2), tcp:27666:4 (2), tcp:27666:5 (2), tcp:27666:6 (2), tcp:27666:7 (1)  •  @__rendition__ (2) : simple:additions (2)|
-|12.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|13.|__trailer__|1||
+|1.|__desc__|228||
+|2.|__div__|10| @__type__ (10) : title_page (1), oath (1), part (8)|
+|3.|__figure__|1||
+|4.|__g__|95| @__ref__ (95) : char:EOLhyphen (94), char:EOLunhyphen (1)|
+|5.|__gap__|228| @__reason__ (228) : illegible: left blank (2), illegible (226)  •  @__extent__ (228) : 1 letter (200), 1 word (9), 2 letters (17), 3 letters (2)  •  @__resp__ (225) : #PDCC (225)|
+|6.|__head__|10||
+|7.|__hi__|8||
+|8.|__p__|88| @__n__ (80) : 2 (7), 3 (7), 4 (7), 5 (6), 6 (5), 7 (5), 1 (7), 8 (3), 9 (2), 10 (2), 11 (2), 12 (2), 13 (2), 14 (2), 15 (2), 16 (2), 17 (2), 18 (2), 19 (2), 20 (2), 21 (2), 22 (2), 23 (2), 24 (2), 25 (1)|
+|9.|__pb__|13| @__facs__ (13) : tcp:27666:1 (2), tcp:27666:2 (2), tcp:27666:3 (2), tcp:27666:4 (2), tcp:27666:5 (2), tcp:27666:6 (2), tcp:27666:7 (1)  •  @__rendition__ (2) : simple:additions (2)|
+|10.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|11.|__trailer__|1||
