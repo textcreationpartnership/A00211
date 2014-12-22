@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-ARTICLES TO BE INQVIRED OF IN THE METROPOLITICALL VISITATION OF THE MOST REVEREND FATHER, VVILLIAM, 
+
 1. The Tenour of the Oath, to be Ministred to the Church-wardens and Side-men.
 
 #####Body#####
