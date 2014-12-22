@@ -35,9 +35,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be inquired of in the metropoliticall visitation of  the most reverend father, VVilliam,
+ARTICLES TO BE INQVIRED OF IN THE METROPOLITICALL VISITATION OF THE MOST REVEREND FATHER, VVILLIAM, 
+1. The Tenour of the Oath, to be Ministred to the Church-wardens and Side-men.
+
 #####Body#####
-Articles to be inquired of in the metropoliticall visitation of  the most reverend father, VVilliam,
+
+1. Concerning the Church, the Ornaments thereof and the Churches possessions.
+
+1. Concerning the Clergy.
+
+1. Schoole-Masters.
+
+1. Parish Clarke and Sextons.
+
+1. Concerning the Parishioners.
+
+1. Physitions, Chir•rgions, and Mid-wives.
+
+1. Touching the Church-wardens and Side-men.
+
+1. Concerning Ecclesiasticall Magistrates and Officers.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
